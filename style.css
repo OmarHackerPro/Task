@@ -1,0 +1,211 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #000003;
+    display: flex;
+    padding-bottom: 300px;
+}
+
+header .title img {
+    margin-top: 150px;
+    margin-left: 230px;
+}
+
+header .text {
+    margin-top: 230px;
+    margin-left: 50px;
+}
+
+header .text p {
+    font-family: "Iceland", sans-serif;
+    color: #ffffff;
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+
+header .text button {
+    background-color: #000000;
+    border-color: #E84A4A;
+    font-family: "Big Shoulders Display", sans-serif;
+    padding: 10px 30px;
+    color: #E84A4A;
+    cursor: pointer;
+    font-size: 23px;
+}
+
+main {
+    background-color: #000003;
+}
+
+main nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+main nav h1 {
+    color: #7DFF68;
+    font-family: "Big Shoulders Display", sans-serif;
+}
+
+main nav p {
+    color: #FFFFFF;
+    font-family: "Big Shoulders Display", sans-serif;
+    margin-left: 15px;
+    margin-right: 20px;
+}
+
+main nav .level {
+    display: flex;
+}
+
+main nav .coins {
+    display: flex;
+}
+
+main nav .credit {
+    display: flex;
+}
+
+main .section1 {
+    display: flex;
+}
+
+main .section1 .left img {
+    margin-top: 50px;
+}
+
+main .section1 .left p {
+    color: #FFFFFF;
+    font-family: "Iceland", sans-serif;
+    margin-left: 20px;
+}
+
+main .section1 .left h1 {
+    font-family: "Big Shoulders Display", sans-serif;
+    color: #E84A4A;
+    margin-bottom: 30px;
+    margin-left: 20px;
+}
+
+main .section1 .left .hire {
+    color: #000003;
+    background-color: #E84A4A;
+    padding-right: 30px;
+    font-family: "Big Shoulders Display", sans-serif;
+    display: inline;
+}
+
+main .section1 .left .open {
+    color: #E84A4A;
+    background-color: #000000;
+    border: 1px solid #E84A4A;
+    display: inline;
+}
+
+main .section1 .left .social {
+    margin-top: 30px;
+    color: #FFFFFF;
+    font-family: "Iceland", sans-serif;
+    margin-left: 20px;
+}
+
+main .section1 .left .open .frame {
+    margin-top: 0px;
+    margin-left: 15px;
+}
+
+main .section1 .left .motto {
+    margin-top: 150px;
+    max-width: 210px;
+}
+
+main .section1 .left .motto p {
+    color: #E84A4A;
+    font-family: "Iceland", sans-serif;
+}
+
+main .section1 .left .motto span {
+    color: #B2B7BA;
+    font-family: "Iceland", sans-serif;
+    display: block;
+    margin-left: 20px;
+}
+
+main .section1 .middle h1 {
+    color: #FFFFFF;
+    font-family: "Iceland", sans-serif;
+    max-width: 600px;
+    margin-left: 300px;
+    margin-top: 90px;
+}
+
+main .section1 .middle p {
+    color: #FFFFFF;
+    font-family: "Iceland", sans-serif;
+    margin-left: 470px;
+    margin-top: 20px;
+}
+
+main .section1 .middle img {
+    margin-left: 200px;
+}
+
+main .section1 .right {
+    display: flex;
+}
+
+main .section1 .right .line {
+    background-color: #E84A4A;
+    height: 500px;
+    width: 2px;
+    margin-top: 50px;
+}
+
+main .section1 .right .quest h1 {
+    color: #FFFFFF;
+    font-family: "Big Shoulders Display", sans-serif;
+    margin-top: 50px;
+    background-color: #E84A4A;
+    padding: 5px 60px 5px 10px;
+}
+
+main .section1 .right .quest p {
+    font-family: "Iceland", sans-serif;
+    color: #7A7A7A;
+    margin-left: 10px;
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+main .section1 .right .quest span {
+    font-family: "Iceland", sans-serif;
+    margin-top: 40px;
+    color: #FFFFFF;
+    display: block;
+    margin-left: 10px;
+}
+
+main .section1 .right .quest .react {
+    color: #E84A4A;
+    background-color: #000003;
+    margin-top: 10px;
+    margin-left: 0px;
+    font-size: 30px;
+}
+
+main .section1 .right .quest .build {
+    max-width: 250px;
+}
+
+main .section1 .right .quest .image {
+    display: flex;
+}
+
+main .section1 .right .quest .image img {
+    margin-left: 10px;
+    margin-top: 20px;
+}
